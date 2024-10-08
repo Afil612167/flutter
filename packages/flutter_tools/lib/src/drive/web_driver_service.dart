@@ -303,6 +303,7 @@ Map<String, dynamic> getDesiredCapabilities(
               '--disable-background-timer-throttling',
               '--disable-default-apps',
               '--disable-extensions',
+              '--disable-web-security',
               '--disable-popup-blocking',
               '--disable-translate',
               '--no-default-browser-check',
